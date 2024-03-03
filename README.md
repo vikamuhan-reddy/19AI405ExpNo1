@@ -103,7 +103,8 @@ agent.perform_action("nothing")
 agent.print_status()
 ```
 ### OUTPUT:
-![Exp 1 PEAS](https://private-user-images.githubusercontent.com/148514589/307605826-30c5f376-305a-4f9f-be83-0af5586b22f4.png?)
+![EXP 1 PEAS](https://github.com/vikamuhan-reddy/19AI405ExpNo1/assets/144928933/53f2ba91-0a71-44c1-ace6-57ca67907519)
+
 ### RESULT:
 Thus the Developing AI Agent with PEAS Description was implemented  using
 python programming.
